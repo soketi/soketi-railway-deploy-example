@@ -13,3 +13,5 @@ This example deploys self-hosted version of [Soketi](https://soketi.app).
 
 - Click the Railway button 👆
 - Enjoy hyper-scalable, extremly fast websockets.
+
+Please refer to the [Soketi Documentation](https://soketi.app) for detailed examples.
