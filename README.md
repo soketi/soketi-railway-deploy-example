@@ -1,4 +1,4 @@
-# Soketi example
+# Soketi on Railway
 
 Deploy [Soketi](https://soketi.app) on Railway. 🚀
 
