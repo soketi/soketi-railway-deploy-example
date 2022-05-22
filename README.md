@@ -1,17 +1,14 @@
 # Soketi example
 
-This example deploys self-hosted version of [Soketi](https://soketi.app). 
+Deploy [Soketi](https://soketi.app) on Railway. 🚀
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/J2L5Qh?referralCode=q447jp)
+This version was forked from [ryker2000](https://github.com/ryker2000)'s [railway-soketi](https://github.com/ryker2000/railway-soketi) repository. Special thanks! 🥳
 
-## ✨ Features
-
-- Soketi
-- Pusher API
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/IAn7JD?referralCode=T4V-jV)
 
 ## 💁‍♀️ How to use
 
 - Click the Railway button 👆
-- Enjoy hyper-scalable, extremly fast websockets.
+- Enjoy hyper-scalable, hyper-fast websockets with Pusher
 
 Please refer to the [Soketi Documentation](https://docs.soketi.app) for detailed examples.
