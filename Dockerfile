@@ -8,3 +8,8 @@ ENV SOKETI_DEFAULT_APP_KEY=$SOKETI_DEFAULT_APP_KEY
 
 ARG SOKETI_DEFAULT_APP_SECRET
 ENV SOKETI_DEFAULT_APP_SECRET=$SOKETI_DEFAULT_APP_SECRET
+
+# Railway standard configuration; Don't remove.
+ARG PORT
+ENV PORT=6001
+# Railway standard configuration; Don't remove.
