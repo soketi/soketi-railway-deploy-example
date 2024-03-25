@@ -12,3 +12,11 @@ This version was forked from [ryker2000](https://github.com/ryker2000)'s [railwa
 - Enjoy hyper-scalable, hyper-fast websockets with Pusher
 
 Please refer to the [Soketi Documentation](https://docs.soketi.app) for detailed examples.
+
+## 🤝 Sponsors
+
+<p align="center">
+  <a href="https://github.com/sponsors/rennokki">
+    <img src='https://cdn.jsdelivr.net/gh/rennokki/sponsorkit-assets@main/assets/sponsors.svg' alt="Logos from Sponsors" />
+  </a>
+</p>
